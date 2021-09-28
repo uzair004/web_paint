@@ -8,3 +8,5 @@ Canvas based paint with different options to paint on canvas
 - brush opacity
 - brush shape
 - color picker
+
+### [Demo](https://uzair004.github.io/web_paint/)
